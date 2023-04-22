@@ -1,0 +1,28 @@
+
+.post{
+  width: 400px;
+  display: block;
+}
+.postheader {
+  display: flex;
+  justify-content: space-between;
+}
+.html5 {
+  width: 20px;
+  height: 20px;
+}
+.postbody img{
+  width: 100%;
+}
+.posticons{
+  display: flex;
+  justify-content: space-between;
+}
+.dots{
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
